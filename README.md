@@ -1,2 +1,9 @@
 # IMS_Assignment
-# this assignment is implemented on MAC os system
+
+## Environment Setup
+1. this assginment is based on MAC OS X 15.4
+2. necessary tools:
+                    a. Jupyter
+                    b. FFmpeg
+
+## implementation
