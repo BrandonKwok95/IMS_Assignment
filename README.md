@@ -25,3 +25,4 @@
 ## Result
 ### The implement reulst is in vmaf folder(video quality), video-format(file-size / bit-rate),  encode-video(encoded videos)
 ### vmaf and video-format have been uploaded on Github, and you can check it.
+### If you have any questioned, you can send email to uczlhg6@ucl.ac.uk or just send message on Github
