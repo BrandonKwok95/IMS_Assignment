@@ -18,6 +18,8 @@
        all the source videos are from https://media.xiph.org/video/derf/
 
 ## Implementation
+(Make sure you folder is the same as below)
+![image](https://github.com/BrandonKwok95/IMS_Assignment/blob/master/project%20display.png)
 ### 1. After finished environment setup, run CreateFolder.ipynb to create folder (setup frame)
 ### 2. Put all source videos into source-video
 ### 3. After ensuring all folders have been setup, run Encoding.ipynb to encode source video
